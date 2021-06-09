@@ -5,5 +5,28 @@ Hallo Test
 😀
 
 
-Text von Kutay.
-Text 2
+<<<<<<< HEAD
+
+=======
+---
+## Fabian
+:)
+
+
+
+---
+
+## Ahmet Yanik
+:) :) :)
+=======
+## Patrick
+;)
+
+---
+## Spolat 
+
+:)))
+
+>>>>>>> 444747be47fff8187abe24b9dae984bb5de96a7a
+
+## Kutay
