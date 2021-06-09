@@ -30,7 +30,7 @@ Hallo Test
 <<<<<<< HEAD
 ## Kutay
 So
->>>>>>> 444747be47fff8187abe24b9dae984bb5de96a7a
+>>>>>>> Text Text Text
 =======
 
 ## Elli
