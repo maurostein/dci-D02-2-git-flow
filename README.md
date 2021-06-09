@@ -28,12 +28,8 @@ vielleicht endlich?
 :)))
 
 ## Kutay
-So
-<<<<<<< HEAD
->>>>>>> Text Text Text
-=======
 
-=======
+So
 
 ## Elli
 
